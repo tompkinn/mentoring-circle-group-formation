@@ -360,5 +360,3 @@ output_csv = output_name
 # Create output file
 filter_csv_by_identifiers(input_csv, output_csv, groups)
 print("Student groups output csv file generated successfully!")
-
-# Sample output data:
