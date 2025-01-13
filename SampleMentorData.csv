@@ -1,0 +1,27 @@
+Number,University,Major,Gender,Race,Firstgen
+m1a,"University of Puerto Rico, Mayaguez",Aeronautics and Astronautics,Man,Hispanic/Latino/a/e,High School Graduate
+m1b,Texas A&M University,Mechanical Engineering,Woman,African American/Black,Doctoral Degree
+m2a,"University of Puerto Rico, Mayaguez",Biomedical Engineering,Man,Hispanic/Latino/a/e,Bachelor Degree
+m2b,"Purdue University, West Lafayette",Mechanical Engineering,Woman,Hispanic/Latino/a/e,Bachelor Degree
+m3a,University of Texas at El Paso (UTEP),Biomedical Engineering,Woman,"Hispanic/Latino/a/e,White/European American",Master's Degree
+m3b,Pennsylvania State University,Engineering Education,Man,Hispanic/Latino/a/e,High School Graduate
+m4a,"University of Michigan, Ann Arbor",Biomedical Engineering,Woman,Hispanic/Latino/a/e,Master's Degree
+m4b,North Carolina State University,Industrial Engineering,Man,"African American/Black,Southeast Asian/Asian American (e.g., Vietnamese, Thai)",Master's Degree
+m5a,North Carolina A&T University,Biomedical Engineering,Woman,African American/Black,"Professional Doctorate Degree (law, medicine, music, or ministry)"
+m5b,Rensselaer Polytechnic Institute,Industrial Engineering,Man,Hispanic/Latino/a/e,Bachelor Degree
+m6a,"University of Michigan, Ann Arbor","Biomedical Engineering,Chemical Engineering",Woman,Hispanic/Latino/a/e,Master's Degree
+m6b,"University of Minnesota, Twin Cities",Engineering Education,More,African American/Black,Bachelor Degree
+m7a,Virginia Tech,Chemical Engineering,Man,"African American/Black,Southeast Asian/Asian American (e.g., Vietnamese, Thai)",Some College (No Degree)
+m7b,University of Texas at Austin,Chemical Engineering,Woman,Hispanic/Latino/a/e,Bachelor Degree
+m8a,"University of Puerto Rico, Mayaguez",Chemical Engineering,Man,"Hispanic/Latino/a/e,White/European American",Bachelor Degree
+m8b,Massachusetts Institute of Technology,Chemical Engineering,Woman,Hispanic/Latino/a/e,Master's Degree
+m9a,"University of California, Berkeley",Civil Engineering,Man,Hispanic/Latino/a/e,Master's Degree
+m9b,Duke University,Civil Engineering,Woman,Hispanic/Latino/a/e,Bachelor Degree
+m10a,North Carolina A&T University,"Civil Engineering,Engineering Education",Woman,African American/Black,High School Graduate
+m10b,University of Southern California,Mechanical Engineering,Man,Hispanic/Latino/a/e,Master's Degree
+m11a,"University of Michigan, Ann Arbor",Electrical and Computer Engineering,Woman,White/European American,K - 12th Grade
+m11b,Carnegie Mellon University,Environmental and Ecological Engineering,Man,African American/Black,Bachelor Degree
+m12a,"University of Puerto Rico, Mayaguez",Engineering Education,Woman,Hispanic/Latino/a/e,Bachelor Degree
+m12b,Tuskegee University,Mechanical Engineering,Man,"East Asian/Asian American (e.g., Korean, Chinese)",Bachelor Degree
+m13a,Morgan State University,Engineering Education,Man,African American/Black,Master's Degree
+m13b,University of Kansas,Mechanical Engineering,Woman,"Native American/American Indian/ Alaska Native,White/European American",Master's Degree
